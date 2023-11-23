@@ -1,5 +1,4 @@
 # HackerRank-Challenges-Solutions 🚀
-https://www.hackerrank.com/challenges/python-string-split-and-join/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
 
 This code defines a function split_and_join that takes a string, splits it into a list of words using spaces as separators, and then joins the words using hyphens. The modified string is then returned.
 """
