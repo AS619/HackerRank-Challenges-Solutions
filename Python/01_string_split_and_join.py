@@ -1,6 +1,7 @@
 # HackerRank-Challenges-Solutions 🚀
 
-This code defines a function split_and_join that takes a string, splits it into a list of words using spaces as separators, and then joins the words using hyphens. The modified string is then returned.
+This code defines a function split_and_join that takes a string, splits it into a list of words using spaces as separators, and then joins the words using hyphens. 
+The modified string is then returned.
 """
 
 def split_and_join(line):
