@@ -5,9 +5,7 @@ This code defines a function split_and_join that takes a string, splits it into 
 
 def split_and_join(line):
 
-    # write your code here
-
-    a = line.split(" ")
+     a = line.split(" ")
 
     b = "-".join(a)
 
